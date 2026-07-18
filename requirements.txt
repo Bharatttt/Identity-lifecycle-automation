@@ -1,0 +1,5 @@
+ldap3
+requests
+msal
+python-dotenv
+boto3

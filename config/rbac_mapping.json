@@ -1,0 +1,78 @@
+{
+  "Engineering": {
+    "default_ad_groups": [
+      "GG-Engineering",
+      "GG-All-Employees"
+    ],
+    "default_entra_groups": [
+      "JML-Engineering",
+      "JML-All-Employees"
+    ],
+    "roles": {
+      "Software Engineer": {
+        "ad_groups": [
+          "GG-Software-Developers",
+          "GG-Git-Users"
+        ],
+        "entra_groups": [
+          "JML-Software-Developers",
+          "JML-GitHub-Enterprise"
+        ]
+      },
+      "QA Engineer": {
+        "ad_groups": [
+          "GG-QA-Engineers",
+          "GG-Test-Environment"
+        ],
+        "entra_groups": [
+          "JML-QA-Engineers",
+          "JML-Test-Environment"
+        ]
+      }
+    }
+  },
+  "Finance": {
+    "default_ad_groups": [
+      "GG-Finance",
+      "GG-All-Employees"
+    ],
+    "default_entra_groups": [
+      "JML-Finance",
+      "JML-All-Employees"
+    ],
+    "roles": {
+      "Financial Analyst": {
+        "ad_groups": [
+          "GG-Finance-Analysts",
+          "GG-Finance-Reporting"
+        ],
+        "entra_groups": [
+          "JML-Finance-Analysts",
+          "JML-PowerBI-Finance"
+        ]
+      }
+    }
+  },
+  "Sales": {
+    "default_ad_groups": [
+      "GG-Sales",
+      "GG-All-Employees"
+    ],
+    "default_entra_groups": [
+      "JML-Sales",
+      "JML-All-Employees"
+    ],
+    "roles": {
+      "Account Executive": {
+        "ad_groups": [
+          "GG-Sales-Account-Executives",
+          "GG-CRM-Users"
+        ],
+        "entra_groups": [
+          "JML-Sales-Account-Executives",
+          "JML-CRM-Users"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "employee_id": "E1001",
+      "sam_account_name": "test.aarav",
+      "user_principal_name": "test.aarav@lab.example.local",
+      "display_name": "Aarav Sharma (Test)",
+      "email": "test.aarav@lab.example.local",
+      "department": "Engineering",
+      "title": "Software Engineer",
+      "enabled": true,
+      "groups": [
+        "GG-All-Employees",
+        "GG-Engineering",
+        "GG-Software-Developers",
+        "GG-Git-Users"
+      ]
+    },
+    {
+      "employee_id": "E1002",
+      "sam_account_name": "test.meera",
+      "user_principal_name": "test.meera@lab.example.local",
+      "display_name": "Meera Iyer (Test)",
+      "email": "test.meera@lab.example.local",
+      "department": "Engineering",
+      "title": "QA Engineer",
+      "enabled": true,
+      "groups": [
+        "GG-All-Employees",
+        "GG-Engineering",
+        "GG-QA-Engineers",
+        "GG-Test-Environment"
+      ]
+    },
+    {
+      "employee_id": "E1004",
+      "sam_account_name": "ananya.rao",
+      "user_principal_name": "ananya.rao@example.com",
+      "display_name": "Ananya Rao (Test)",
+      "email": "ananya.rao@example.com",
+      "department": "Finance",
+      "title": "Financial Analyst",
+      "enabled": true,
+      "groups": [
+        "GG-All-Employees",
+        "GG-Finance",
+        "GG-Finance-Analysts",
+        "GG-Finance-Reporting"
+      ]
+    }
+  ],
+  "groups": [
+    "GG-All-Employees",
+    "GG-Engineering",
+    "GG-Software-Developers",
+    "GG-Git-Users",
+    "GG-QA-Engineers",
+    "GG-Test-Environment",
+    "GG-Finance",
+    "GG-Finance-Analysts",
+    "GG-Finance-Reporting",
+    "GG-Sales",
+    "GG-Sales-Account-Executives",
+    "GG-CRM-Users"
+  ]
+}

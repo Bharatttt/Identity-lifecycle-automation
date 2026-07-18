@@ -1,0 +1,5 @@
+employee_id,first_name,last_name,email,department,role,status,manager_email,effective_date
+E1001,Aarav,Sharma,aarav.sharma@example.com,Engineering,Software Engineer,active,priya.manager@example.com,16-07-2026
+E1002,Meera,Iyer,meera.iyer@example.com,Engineering,QA Engineer,active,priya.manager@example.com,17-07-2026
+E1003,Rohan,Das,rohan.das@example.com,Sales,Account Executive,terminated,sales.manager@example.com,16-07-2026
+E1004,Ananya,Rao,ananya.rao@example.com,Finance,Financial Analyst,active,finance.manager@example.com,17-07-2026
