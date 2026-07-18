@@ -141,6 +141,4 @@ This demonstrates role-based access reconciliation using actual mock directory s
 
 ## License
 
-## License
-
 This project is licensed under the MIT License.
